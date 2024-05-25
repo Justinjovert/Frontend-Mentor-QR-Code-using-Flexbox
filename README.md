@@ -21,7 +21,7 @@ Just a simple QR Code website challenge from Frontend Mentor to solidify my skil
 
 ### Screenshot
 
-![](./design/screenshot.png)
+![Screenshot](./design/screenshot.png)
 
 
 ### Links
@@ -29,7 +29,7 @@ Just a simple QR Code website challenge from Frontend Mentor to solidify my skil
 
 ## My process
 
-Build a container for a div 'card', that acts as a card for the whole content. Used flexbox to centralize content.
+Built a container for a div 'card', that acts as a card for the whole content. Used flexbox to centralize content.
 
 ### Built with
 
